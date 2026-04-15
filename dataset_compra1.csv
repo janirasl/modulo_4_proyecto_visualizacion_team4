@@ -1,0 +1,73 @@
+Alimento,Tipo,Precio_EUR_kg_L,Sueño,Energia
+Pollo fresco,Real,6.0,Neutro,8
+Salmón,Real,10.0,Bueno,9
+Huevos,Real,3.0,Bueno,8
+Avena,Real,2.0,Bueno,7
+Arroz integral,Real,2.2,Neutro,7
+Lentejas,Real,1.8,Bueno,7
+Garbanzos,Real,1.7,Bueno,7
+Yogur natural,Real,2.5,Bueno,6
+Plátano,Real,2.0,Bueno,7
+Kiwi,Real,3.5,Bueno,6
+Almendras,Real,12.0,Bueno,8
+Nueces,Real,13.0,Bueno,8
+Espinacas,Real,2.5,Bueno,6
+Brócoli,Real,2.8,Bueno,6
+Tomate,Real,2.5,Neutro,5
+Lechuga,Real,1.5,Neutro,4
+Zanahoria,Real,1.3,Neutro,5
+Pechuga pavo,Real,7.0,Neutro,8
+Merluza,Real,8.0,Bueno,8
+Aceite oliva,Real,8.5,Neutro,9
+Patata,Real,1.8,Neutro,6
+Manzana,Real,2.3,Bueno,6
+Naranja,Real,2.2,Neutro,6
+Pera,Real,2.5,Bueno,6
+Fresas,Real,4.0,Bueno,6
+Arroz blanco,Real,1.9,Neutro,7
+Pasta integral,Real,2.0,Neutro,7
+Queso fresco,Real,4.5,Neutro,6
+Leche,Real,1.2,Neutro,6
+Infusión,Real,0.8,Bueno,3
+Agua,Real,0.5,Bueno,2
+Pan integral,Real,2.2,Neutro,6
+Boniato,Real,2.5,Bueno,7
+Calabacín,Real,2.0,Neutro,5
+Berenjena,Real,2.3,Neutro,5
+Pimiento,Real,3.0,Neutro,5
+Cebolla,Real,1.4,Neutro,5
+Ajo,Real,3.5,Neutro,5
+Melocotón,Real,3.0,Bueno,6
+Uvas,Real,3.2,Neutro,6
+Limón,Real,2.0,Neutro,5
+
+Pizza congelada,Ultra,3.5,Malo,6
+Hamburguesa preparada,Ultra,4.0,Malo,7
+Nuggets,Ultra,5.0,Malo,7
+Salchichas,Ultra,4.5,Malo,6
+Croquetas,Ultra,4.0,Malo,6
+Refresco,Ultra,1.5,Malo,5
+Bebida energética,Ultra,2.0,Malo,8
+Zumo industrial,Ultra,2.2,Malo,6
+Galletas,Ultra,3.0,Malo,6
+Donuts,Ultra,4.0,Malo,7
+Bollería,Ultra,3.5,Malo,7
+Cereales azucarados,Ultra,4.0,Malo,7
+Chocolate,Ultra,3.5,Malo,7
+Snacks,Ultra,2.5,Malo,6
+Patatas fritas bolsa,Ultra,2.2,Malo,6
+Helado,Ultra,4.0,Malo,6
+Pizza refrigerada,Ultra,4.0,Malo,6
+Sándwich preparado,Ultra,3.5,Malo,6
+Comida precocinada,Ultra,5.0,Malo,6
+Salsa industrial,Ultra,2.5,Malo,5
+Ketchup,Ultra,2.0,Malo,5
+Mayonesa,Ultra,2.8,Malo,6
+Barritas,Ultra,3.0,Malo,7
+Batido azucarado,Ultra,2.5,Malo,6
+Pan blanco,Ultra,1.8,Malo,6
+Flan industrial,Ultra,2.5,Malo,5
+Natillas,Ultra,2.6,Malo,5
+Yogur azucarado,Ultra,2.8,Malo,6
+Queso procesado,Ultra,3.5,Malo,6
+Café cápsulas,Ultra,15.0,Malo,8
