@@ -40,4 +40,28 @@ profession, profesion de las personas, categorizada de esta manera:
                     office_worker    602
 
 BMI , indice de masa corporal, se calcula como perso entre altura al cuadrado, tipo float
-health _risk , alto o bajo riesgo de mala salud , high alto, low es bajo 
+health _risk , alto o bajo riesgo de mala salud , high alto, low es bajo
+
+
+Vemos el documento Comida_precios
+consta de : 5 columnas
+            71 filas
+            no tiene nulos
+
+    Alimento, columna de tipo string , con nombre de los alimentos
+    
+    Tipo columna de tipo string, categorica con 2 categorias
+        Real 57.74%
+        ultrra 42.25%
+
+   Sueño columna de tipo string, categorica con 3 categorias
+        malo 42.25%
+        neutro 29.57%
+        bueno 28.16%
+    
+    precio _eur_kg_l columna tipo float
+        maxinmo 15.0
+        minimo 0.5
+        media 2.6
+    
+    
