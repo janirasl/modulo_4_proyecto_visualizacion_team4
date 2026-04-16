@@ -4,7 +4,10 @@ Vemos el documento Lifestyle_and_Health_Risk_Prediction_Synthetic_Dataset.csv :
             sin nulos
             homogeneizado
 
-Age, habla de la edad de las personas : 0 nulos  y de tipo int .
+Age, habla de la edad de las personas : 
+0 nulos 
+ tipo int 
+ las edades estan comprendidas entre 18 y 79 años, el 50% (Q2) estan entre 35 y 65 años
 
 Weight, peso de las personas calculado en kilos  es un int no tiene nulos calculado en kilos completos .
 
